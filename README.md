@@ -26,9 +26,3 @@ This website is built using:
 * CSS
 * JavaScript
 * GitHub Pages
-
-## About
-
-**Bernard Voon Ee How** is Associate Professor. 
-
-For additional information, please visit the website or use the contact information provided on the Contact page.
